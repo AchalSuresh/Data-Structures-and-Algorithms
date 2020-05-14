@@ -1,2 +1,2 @@
 # Mylearning
-This folder contains some Python Programs.
+This folder contains Python Programs illustrtaing some basic data structure operations
